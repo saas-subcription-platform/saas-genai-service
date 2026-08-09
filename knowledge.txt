@@ -1,0 +1,405 @@
+SAAS SUBSCRIPTION PLATFORM
+==========================
+
+PLATFORM OVERVIEW
+-----------------
+
+The SaaS Subscription Platform helps organizations manage their
+subscriptions, employees, billing, payments, and employee
+productivity.
+
+The platform has three types of users:
+
+- Public visitors
+- Company Administrators
+- Employees
+
+
+SUBSCRIPTION PLANS
+------------------
+
+The platform provides three subscription plans:
+
+1. Starter
+2. Professional
+3. Enterprise
+
+
+STARTER PLAN
+------------
+
+Description:
+Perfect for startups and small teams.
+
+Maximum users:
+10
+
+Monthly price:
+₹999
+
+Yearly price:
+₹9,999
+
+Employee modules included:
+
+- Timesheet Management
+- Leave Management
+
+
+PROFESSIONAL PLAN
+-----------------
+
+Description:
+Ideal for growing organizations with collaboration features.
+
+Maximum users:
+50
+
+Monthly price:
+₹2,999
+
+Yearly price:
+₹29,999
+
+Employee modules included:
+
+- Timesheet Management
+- Leave Management
+- Team Collaboration
+
+
+ENTERPRISE PLAN
+---------------
+
+Description:
+Best suited for large organizations with complete access.
+
+Maximum users:
+500
+
+Monthly price:
+₹9,999
+
+Yearly price:
+₹99,999
+
+Employee modules included:
+
+- Timesheet Management
+- Leave Management
+- Team Collaboration
+- Goals & Performance (Goals & OKRs)
+
+
+SUBSCRIPTION COMPARISON
+-----------------------
+
+Starter:
+- Up to 10 users
+- Timesheet Management
+- Leave Management
+
+Professional:
+- Up to 50 users
+- Timesheet Management
+- Leave Management
+- Team Collaboration
+
+Enterprise:
+- Up to 500 users
+- Timesheet Management
+- Leave Management
+- Team Collaboration
+- Goals & Performance (Goals & OKRs)
+
+
+COMMON ADMINISTRATOR FEATURES
+-----------------------------
+
+Company Administrator functionality is available across the
+subscription plans.
+
+Administrators can:
+
+- Access the Admin Dashboard
+- Manage employees/users
+- Manage company profile
+- Manage subscriptions
+- View payment information
+- View invoices
+- View notifications
+- Manage account/application settings
+- Access Help
+
+
+USER MANAGEMENT
+---------------
+
+Administrators can:
+
+- View employees
+- Add employees
+- View employee details
+- Edit employee information
+
+Administrators can manage information such as:
+
+- Name
+- Email
+- Phone
+- Department
+- Role
+- Status
+
+Supported roles include:
+
+- Administrator
+- Employee
+- Manager
+
+
+COMPANY PROFILE
+---------------
+
+Administrators can manage company information including:
+
+- Company name
+- Company phone
+- GSTN
+- PIN code
+- Address
+- Country
+- Company size
+
+
+SUBSCRIPTION MANAGEMENT
+----------------------
+
+Administrators can:
+
+- View the current subscription
+- View the current plan
+- View subscription status
+- View billing cycle
+- View subscription dates
+- View renewal information
+- View available plans
+- Change subscription plans
+- Renew subscriptions
+- Proceed with subscription payments
+
+
+PAYMENTS
+--------
+
+Administrators can view payment-related information associated
+with their subscriptions.
+
+The platform supports online subscription payments.
+
+
+INVOICES
+--------
+
+Administrators can view subscription invoices.
+
+They can:
+
+- View invoice information
+- View billing periods
+- View payment status
+- View invoice amounts
+- Open invoice details
+- Download invoices
+
+
+NOTIFICATIONS
+-------------
+
+Administrators can view notifications containing important
+platform or organization-related updates.
+
+
+SETTINGS
+--------
+
+Administrators can access account and application settings and
+view their account information.
+
+
+HELP
+----
+
+The platform provides a Help section for administrators.
+
+
+EMPLOYEE MODULES
+----------------
+
+The platform provides four employee modules across the available
+subscription plans:
+
+1. Timesheet Management
+2. Leave Management
+3. Goals & Performance
+4. Team Collaboration
+
+
+TIMESHEET MANAGEMENT
+--------------------
+
+Timesheet Management helps employees record and manage their
+working hours.
+
+Employees can:
+
+- Create timesheets
+- Record their work
+- Add projects and tasks
+- Record hours worked
+- Add descriptions
+- Save their work
+- Submit timesheets
+- View their timesheets
+- View timesheet details
+- Edit timesheets that are still in progress
+
+The module helps employees maintain records of their daily and
+weekly work.
+
+
+LEAVE MANAGEMENT
+----------------
+
+Leave Management helps employees manage their leave.
+
+Employees can:
+
+- View their leave balance
+- Apply for leave
+- Select a leave type
+- Select leave dates
+- Provide a reason
+- View leave history
+- Check the status of leave requests
+
+Available leave types:
+
+- Casual Leave
+- Sick Leave
+- Earned Leave
+
+
+GOALS & PERFORMANCE
+-------------------
+
+Goals & Performance helps employees set and manage professional
+goals and monitor their progress.
+
+Employees can:
+
+- View goals
+- Create goals
+- View goal details
+- Update goals
+- Track goal progress
+
+The module provides an overview of:
+
+- Active goals
+- Completed goals
+- Overdue goals
+- Overall progress
+
+
+TEAM COLLABORATION
+------------------
+
+Team Collaboration helps employees communicate and work together.
+
+Employees can:
+
+- Communicate with other employees
+- Participate in company-wide conversations
+- Have one-to-one conversations
+- Create teams
+- View teams
+- View team members
+- Search for employees
+- Send messages
+- View conversations
+
+The module provides a shared space for team communication and
+collaboration.
+
+
+ACCESS BY USER TYPE
+-------------------
+
+PUBLIC VISITORS:
+
+- Explore the platform
+- View platform features
+- View subscription plans
+- Start a free trial
+- Begin registration
+- Log in
+
+
+COMPANY ADMINISTRATORS:
+
+- Access the Admin Dashboard
+- Manage employees/users
+- Manage company information
+- Manage subscriptions
+- View payments
+- View invoices
+- View notifications
+- Access settings
+- Access Help
+
+
+EMPLOYEES:
+
+Employees can access the modules included in their organization's
+subscription:
+
+- Timesheet Management
+- Leave Management
+- Team Collaboration
+- Goals & Performance
+
+
+FREE TRIAL
+----------
+
+The platform offers a 14-day free trial.
+
+No credit card is required for the free trial.
+
+Users can cancel anytime.
+
+
+CHATBOT KNOWLEDGE BOUNDARY
+--------------------------
+
+The chatbot should only provide information about the SaaS
+Subscription Platform and the features described in this
+knowledge base.
+
+It must not invent:
+
+- Features
+- Subscription plans
+- Prices
+- Modules
+- Capabilities
+- Services
+
+If information about a platform feature is not available in this
+knowledge base, the chatbot should state that it does not have
+that information.
+
+If a user asks an unrelated question, the chatbot should explain
+that it is designed to answer questions about the SaaS Subscription
+Platform.
